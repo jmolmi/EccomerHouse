@@ -1,0 +1,9 @@
+#CarWidget img {
+    width: 50px;
+}
+
+#CarWidget span{
+    color: aquamarine;
+    padding-left: 1rem;
+    font-weight: 800
+}
